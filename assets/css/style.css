@@ -1,0 +1,86 @@
+body {
+  margin-top: 60px;
+  background-color: #fff;
+}
+h1 {
+  font-family: 'Oswald';
+  font-weight: 700;
+}
+h3 {
+  font-family: 'Oswald';
+  font-weight: 400;
+}
+p {
+  font-family: 'Open Sans';
+  font-weight: 400;
+
+}
+.nav-color {
+  background-color: #FFC107;
+  color: #fff;
+}
+.nav-item a {
+  color: #fff;
+}
+.text-nav {
+  color: #fff;
+  font-family: 'Oswald';
+  font-weight: 700;
+  font-size: 30px;
+}
+.bg-head {
+  background-image: url('../img/bg_hero.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-top: 450px;
+  padding-bottom: 40px;
+  font-family: 'Oswald';
+  color: #fff;
+}
+.bg-head h1{
+  font-size: 72px;
+}
+.bg-head h2{
+  font-weight: 200;
+  font-size: 65px;
+}
+.line {
+  border-top: 2px solid #fff;
+  display: inline-block;
+}
+.ico2 {
+  color: #FF8F00;
+}
+.bg-color-work {
+  background-color: #FFC107;
+}
+.exp {
+  margin-bottom: 5em;
+}
+.card {
+  border: 0;
+}
+.card-text {
+  font-weight: 300;
+}
+.links {
+  text-decoration: none;
+}
+.carousel-control-prev, .carousel-control-next  {
+  width: 5%;
+}
+.footer {
+  background-color: #FFC107;
+
+}
+.txt3-f {
+  color: #fff;
+  font-size: 40px;
+  vertical-align: middle;
+}
+.icons-sec-f {
+  color: #fff;
+  text-decoration: none;
+
+}
